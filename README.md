@@ -17,10 +17,8 @@
 
 ---
 
-- 👨‍💻 I am a Software Engineering student currently halfway through my degree. Passionate about continuous learning, I am expanding my knowledge in Full Stack Development. I enjoy building innovative and creative projects while constantly exploring new technologies to improve my skills
+- 👨‍💻 I am a Software Engineering student currently halfway through my degree. Passionate about continuous learning, I am expanding my knowledge in Full Stack Development. I enjoy building innovative and creative projects while constantly exploring new technologies to improve my skills.
 -- 🌱 I’m diving deeper into [Node.js]([https://scrimba.com/learn-nodejs-c00ho9qqh6]) and [AI]([https://www.deeplearning.ai/](https://scrimba.com/the-ai-engineer-path-c02v))
-
-## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
 
