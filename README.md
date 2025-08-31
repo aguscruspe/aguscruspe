@@ -17,8 +17,7 @@
 
 ---
 
-- 👨‍💻 As an ungraduated Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
+- 👨‍💻 As an ungraduated Software Engineer, curently halfway through my degree. I'm constantly learning and exploring new technologies to improve my skills whereas im exapandiming my knowlege in Full Stack Development Path as a student mastering these skills and loving to learn and built new proyects, products in a innovate and creative way.
 - 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
 
 ## 🛠 &nbsp;Tech Stack
